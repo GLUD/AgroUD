@@ -1,36 +1,15 @@
-# Project Title
+# Agro UD
 
-One Paragraph of project description goes here
+El sistema Agro UD esta pensado para optimizar la trata de cultivos urbanos y de esta manera mejorar la calidad del aire en la ciudad 
 
-## Getting Started
+## Requisitos para ejecutar
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Los elementos que se utilizaron en el desarrollo del proyecto, estan basados en plataformas open source, con esto encontramos sensores de humedad del suelo, humedad del aire, temperatura ambiente y sensor de luz uv y por supuesto la plataforma principal desde donde son enlazados dichos sensores que es Raspberry pi 3, sin embargo cualquier version de la misma, es capaz de soportar la implementacion desarrollada en el transcurso de la jornada, python es el lenguaje usado, debido a su versatilidad y facilidad de implementacion
 
-### Prerequisites
+### Prerequisitos
 
-What things you need to install the software and how to install them
+Por supuesto es necesario tener el sistema operativo de raspberry montado sobre la misma, ademas de ello una conexion estable con internet y por supuesto python para poder ejecutar los correspondientes scripts de cada sensor
 
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you have to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
 
 ## Running the tests
 
