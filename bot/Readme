@@ -1,0 +1,20 @@
+# Agro UD
+
+El sistema Agro UD esta pensado para optimizar la trata de cultivos urbanos y de esta manera mejorar la calidad del aire en la ciudad 
+
+## Script
+Un bot (aféresis de robot) es un programa informático que efectúa automáticamente tareas repetitivas a través de Internet, cuya realización por parte de una persona sería imposible o muy tediosa.
+### Instalacion de librerias
+[Link de instalacion de libreria]{https://geekytheory.com/telegram-programando-un-bot-en-python/}
+
+### Prerequisitos
+Por supuesto es necesario tener el sistema operativo de raspberry montado sobre la misma, ademas de ello una conexion estable con internet y por supuesto python para poder ejecutar los correspondientes scripts de cada sensor
+- Telegram 
+- Libreria
+
+## Autores
+
+Miguel Angle Vega Alonso
+Edvard Frederick Bareño
+Andres Felipe Gomez 
+Wilmer Ricardo Pachon Lopez
